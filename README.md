@@ -8,3 +8,6 @@ Randomly selects an article from the Constitution of the Republic of Poland.
 Posibility of choosing an Art.
 <img width="1891" height="935" alt="image" src="https://github.com/user-attachments/assets/4add8c2e-d62c-4d23-9df7-16885270b0ce" />
 Access to all articles.
+
+WARNING!
+Tool is non usable for an avarge user. If you want me to publish it or set it up for you, try DMing me on discord nev3x.py ;)
